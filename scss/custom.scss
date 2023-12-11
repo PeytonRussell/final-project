@@ -6,3 +6,20 @@
 @import "../node_modules/bootstrap/scss/bootstrap";
 
 // Then add additional custom code here
+.icon-text {
+display: flex;
+align-items: center;
+}
+
+
+.icon-text > span {
+  font-size: 2rem;
+}
+
+.icon-text > p {
+  margin: 0;
+  }
+
+  .feature-bar{
+    font-size: large;
+  }

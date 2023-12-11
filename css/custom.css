@@ -11855,5 +11855,21 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.icon-text {
+  display: flex;
+  align-items: center;
+}
+
+.icon-text > span {
+  font-size: 2rem;
+}
+
+.icon-text > p {
+  margin: 0;
+}
+
+.feature-bar {
+  font-size: large;
+}
 
 /*# sourceMappingURL=custom.css.map */
